@@ -1,8 +1,5 @@
 # Tarea: JWT + Usuarios
 
-**Curso:** Diseño de Software · ITCR · **Profesor:** Ing. Jonathan Solís Parajeles
-**Estudiante:** Kevin Miranda
-
 Se completan los **pasos 5, 6 y 7** del [TUTORIAL.md](./tasks-api/TUTORIAL.md): CRUD con validación, documentación con Swagger y autenticación con JWT. El proyecto está en [`tasks-api/`](./tasks-api).
 
 | Paso | Qué se hizo | Dónde |
