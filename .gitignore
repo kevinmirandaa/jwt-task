@@ -1,2 +1,6 @@
 .env
 .DS_Store
+
+# Archivos generados por la app de Postman (la colección a entregar está en tasks-api/postman/)
+.postman/
+/postman/
